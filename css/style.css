@@ -1,0 +1,173 @@
+.naslov{
+    display: flex;
+    color: rgb(55, 97, 131);
+}
+
+h1{
+    text-shadow: 1px 2px;
+}
+
+h2 {
+    color: rgb(55, 97, 131);
+
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+    color: rgb(57, 19, 129);
+    background-image: linear-gradient(rgb(26, 119, 145), rgb(132, 143, 150));
+}
+
+
+.table-index {
+    border: 1px solid black;
+}
+
+
+
+.tr-table-naslov {
+    background-color: aquamarine;
+
+
+}
+
+table{
+    margin-top: 0.4em;
+    background-image: linear-gradient(rgb(124, 148, 118), rgb(139, 223, 195));
+    color: rgb(38, 38, 61);
+    border: 20px solid currentcolor;
+    padding: 10px;  
+    justify-content: space-between;
+}
+
+.trid {
+    border: 1mm black;
+    font-size: 24px;
+}
+
+.crude_container {
+    width: 100%;
+    display:flex;
+    text-transform: uppercase;
+    border: 0.1ex black;
+}
+
+.crud-vnos{
+    background-color: bisque;
+    background-origin: content-box ;
+    font-size: 18px;
+}
+
+.save {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.lable {
+    border: 1mm black;
+    font-size: 24px;
+}
+.label-vnos {
+    font-size: 20px;
+}
+
+.posodobi {
+    font-size: 16px;
+    border: none;
+    background-color: #b9b9dd;
+    color: white;
+
+}
+
+.delete {
+    font-size: 16px;
+    border: color black;
+    background-color: #f52f2f;
+    color: rgb(235, 225, 225);
+
+}
+
+
+#comments {
+    background-color: rgb(126, 226, 193);
+    border-radius: 0.2em;
+}
+
+.predstavitev-index {
+    margin-top: 0.4em;
+    color: black;
+    text-size-adjust: 20px;
+    background-color: rgb(187, 212, 233);
+    
+
+}
+
+.novosti-naslov{
+    display: flow-root;
+}
+
+
+.prijavni-obrazec {
+    width: 100%;
+    display: flex;
+    background-color: aquamarine;
+
+}
+.logindiv{
+    background-image: url("/img/photo.svg");
+    background-color: rgb(152, 206, 188);
+}
+
+.restapi {
+    background-image: linear-gradient(rgb(202, 202, 181), rgb(158, 184, 129));
+    text-size-adjust: 16px;
+}
+
+.vecpodatkov {transition-duration: 0.4s;
+    background-color: white;
+    color: black;
+    border: 2px solid #607ad1;
+    padding: 10px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.vecpodatkov:hover {
+    background-color: #607ad1;
+    color: white;
+}
+
+.vecpodatkovdiv {
+    text-align: center;
+}
+
+
+.naVrh {transition-duration: 0.4s;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    padding: 10px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.naVrh:hover {
+    background-color: #4CAF50;
+    color: white;
+}
