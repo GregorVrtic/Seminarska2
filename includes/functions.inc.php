@@ -33,7 +33,7 @@ function invalidEmail($mail) {
     return $result;
 }
 
-function pwdMatch($mail) {
+function pwdMatch($pwd, $pwdRepeat) {
     $result;
     if($pwd !== $pwdRepeat) {
         $result = true;
