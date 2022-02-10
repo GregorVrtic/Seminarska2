@@ -22,7 +22,8 @@ include 'header.php'
                         <td><div style="background-color:grey;color:white;padding:20px;">
                           <h2>DB</h2>
                             <p>Pri seminarski sem uporabljal DB na LOCALHOST/ in je priložena v datoteki z naslovom Seminarska/DB.</p>
-                            <p>Zadeva sem z isto podatkovno bazo sestavil tudi na wardspace.net in deluje .</p>
+                            <p>Zadeva sem z isto podatkovno bazo sestavil tudi na wardspace.net do katere je možno dostopati z povezavo
+                                http://gregorvvlog.atwebpages.com/.</p>
                             </div></td>
                         <td><div style="background-color:grey;color:white;padding:20px;">
                             <h2>AJAX</h2>
