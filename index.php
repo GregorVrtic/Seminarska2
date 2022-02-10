@@ -22,13 +22,12 @@ include 'header.php'
                         <td><div style="background-color:grey;color:white;padding:20px;">
                           <h2>DB</h2>
                             <p>Pri seminarski sem uporabljal DB na LOCALHOST/ in je priložena v datoteki z naslovom Seminarska/DB.</p>
-                            <p>Poiskusil sem tudi z DB na wardspace.net, vendar mi je pri vpisu uporabnika sporočilo napako pri ponovnem preverjanju gesla, kar mi v Visual studiju in 
-                                Localhosti ni sporočalo.</p>
+                            <p>Zadeva sem z isto podatkovno bazo sestavil tudi na wardspace.net in deluje .</p>
                             </div></td>
                         <td><div style="background-color:grey;color:white;padding:20px;">
                             <h2>AJAX</h2>
-                            <p>Za testiranje AJAX-a sem ustvaril tabelo z "VLOGI". Stran prikazuje zadnja dve objavi, ter jih po pritisku na gum naloži več.</p>
-                            <p>Pri tem sem utvaril SKRIPTO katera se po zahtevi uporabnika poveže v DB, ter dodatno naloži komentarje.</p>
+                            <p>Za testiranje AJAX-a sem ustvaril tabelo z "VLOGI". Stran prikazuje zadnji dve objavi.</p>
+                            <p>Pri tem sem utvaril SKRIPTO, katera se po zahtevi uporabnika poveže v DB, ter z uporabo gumba dodatno naloži komentarje.</p>
                             <p>Baza z tabelo je prav tako priložena v Seminarska/DB. </p>
                             </div> </td>
                         <td><div style="background-color:grey;color:white;padding:20px;">
@@ -44,7 +43,7 @@ include 'header.php'
                             <h2>VPIS</h2>
                             <p>Pri tem sem v DB ustvaril tabelo uporabniki, katera je shranila željene podatke.</p>
                             <p>Ob tem sem napisal tudi nekaj funkcij, katere preverjajo, če uporabnik že obstaja, če je ponovno vnešeno geslo enako geslu
-                                in vključeno funkcijo za heširanje gesel, katera shranjuje v tabelo heširana gesla.</p>
+                                in vključeno funkcijo za heširanje gesel, katera shranjuje  heširana gesla v tabelo.</p>
                             </div> </td>
                         <td><div  style="background-color:grey;color:white;padding:20px; margin-top: 0;">
                             <h2>PRIJAVA</h2>
