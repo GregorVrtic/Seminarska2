@@ -50,7 +50,7 @@ include 'includes/dbh.inc.php';
     </nav>
 
 <body class="ajax">
-    <h2>Da se vam predstavimo uporabo AJAX programiranja!</h2>
+    <h2>Da vam predstavim še uporabo AJAX programiranja!</h2>
 
 
 
